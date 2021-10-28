@@ -920,6 +920,8 @@ var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/"};
 <script type='text/javascript' src='http://wine.themerex.net/wp-content/themes/wine/js/_reviews.js'></script>
 <script type='text/javascript' src='http://wine.themerex.net/wp-includes/js/wp-embed.min.js?ver=4.6.1'></script>
 <script type='text/javascript' src='http://wine.themerex.net/wp-includes/js/jquery/ui/effect-slide.min.js?ver=1.11.4'></script>
+	<script src="js/sweetalert2/dist/sweetalert2.all.min.js"></script>
+	<script src="js/iguana_notify.js"></script>
 </body>
 </html>
 

@@ -1,0 +1,13 @@
+Version 1.0
+.0
+	- Release Wine HTML
+
+
+Version 1.0
+.1	
+	- Contact form is fixed
+
+Version 1.1.0
+	- Isotope script is fixed
+	- Responsive is updated
+	- Styles are updated
